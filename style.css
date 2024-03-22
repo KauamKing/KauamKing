@@ -1,0 +1,36 @@
+body{
+    margin: 0%;
+    background-image: url();
+
+}
+header{
+    background-color: rgb(114, 114, 204);
+    display: flex;
+    align-items: end;
+    justify-content: flex-end;
+
+}
+.botoes{
+    
+    display: flex;
+    list-style: none;
+    display:inline;
+    padding: 12px;
+
+    
+    
+    
+}
+#config{
+text-decoration: none;
+
+}
+li{
+    display: inline;
+    
+}
+.coluna{
+    width: 200px;
+    height: 400px;
+    background-color: rgb(226, 10, 10);
+}
